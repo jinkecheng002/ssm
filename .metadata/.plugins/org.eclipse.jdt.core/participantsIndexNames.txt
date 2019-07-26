@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+F:\分布式\mavenworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2848073120.index
+\maven04web\src\main\resources
+F:\分布式\mavenworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3594895783.index
+\day01webmaven\src\main\resources

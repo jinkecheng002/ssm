@@ -1,0 +1,17 @@
+package com.jkc.maven02;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+      App app = new App();
+      app.say();
+    }
+    public void say() {
+    	System.out.println("app say");
+    }
+}
